@@ -1,0 +1,24 @@
+{
+  "name": "nodejs.project",
+  "version": "1.0.0",
+  "description": "Backend project for student management system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mark-Jonas/backend.project.git"
+  },
+  "author": "Mark-Jonas Koranteng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mark-Jonas/backend.project/issues"
+  },
+  "homepage": "https://github.com/Mark-Jonas/backend.project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2"
+  }
+}
