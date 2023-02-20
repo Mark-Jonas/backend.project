@@ -1,7 +1,7 @@
 # backend.project
 
 # Description
-Backend project for student management sytem.
+Backend project for student management sytem using node js.
 
 # Live Environment
 This project was deployed to [Vercel](https://backend-project-delta.vercel.app/)
